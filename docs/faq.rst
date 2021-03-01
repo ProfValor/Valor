@@ -56,7 +56,7 @@ CAKE or the LP tokens are all used from Pancakeswap, we automatically compound y
 Where does Valor come from?
 ================================================
 
-Valor is minted via smart contracts. For every 1bnb earned in peformance fees, 10 Valor is newly minted and distributed.
+Valor is minted via smart contracts. For every 1bnb earned in peformance fees, 5 Valor is newly minted and distributed.
 
 Where does Swap % come from?
 ================================================
