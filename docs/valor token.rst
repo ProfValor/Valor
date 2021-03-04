@@ -19,8 +19,8 @@ The VALOR token doesn’t have a max supply. For every 1 BNB earned in the perfo
     For further clarification the 30% performance fee is collected and given to the VALOR stakers. For every 1 BNB earned through performance fees, 10 VALOR is minted and given to respective users. So long as the price of  VALOR stays above 1BNB/10, users are actually earning money through this performance fee system. All of these fees will ultimately go towards staking VALOR, thereby ensuring the sustainability and longevity of our project and benefitting VALOR supporters/holders.
 
 
-- Click on the following spreadsheet link to understand the detailed tokenomics breakdown. 
-
+- Click on the following spreadsheet link to understand the detailed tokenomics breakdown.
+https://cutt.ly/RzqdFid
 
 Presale (Ended)
 ================================================
