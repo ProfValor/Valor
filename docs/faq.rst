@@ -37,7 +37,7 @@ What are the risks of Farming on Valor?
 
 Systematic Risk
 
-The Systematic Risk would be the decrease of monetary value of assets deposited, be in BNB, CAKE, etc. For example BNB could be $30 when you deposit and $25 when you withdraw
+The Systematic Risk would be the decrease of monetary value of assets deposited, be in BNB, CAKE, etc. For example BNB could be $300 when you deposit and $250 when you withdraw
 
 Idiosyncratic Risk
 
