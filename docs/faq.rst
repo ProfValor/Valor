@@ -73,7 +73,7 @@ What is the Fee Structure?
 
 Withdrawal Fee
 
-There is a 0.5% withdrawal fee from Farms only if withdrawal happens within 72 hours of deposit. This fee exists to maintain the smooth flow of the ecosystem and to prevent possible exploitation from individuals acting under bad faith. For example if there was no 0.5% withdrawal fee within the 72 hours, someone could keep depositing right before the compounding takes place and withdraw right after and still reap the same benefits and continuous long-term holders.
+There is a 3% withdrawal fee from Farms only if withdrawal happens within 72 hours of deposit. This fee exists to maintain the smooth flow of the ecosystem and to prevent possible exploitation from individuals acting under bad faith. For example if there was no 3% withdrawal fee within the 72 hours, someone could keep depositing right before the compounding takes place and withdraw right after and still reap the same benefits and continuous long-term holders.
 
 Performance Fee
 
