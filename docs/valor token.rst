@@ -2,7 +2,7 @@
 VALOR token
 ************************
 
-The VALOR token doesn’t have a max supply. For every 1 BNB earned in the performance fees, 10 VALOR is minted, so supply is not capped at the moment. We may establish new strategies to limit the cap or burn some tokens, however currently we are focused on the growth of the VALOR token. You can earn VALOR by using the farms, or you can buy VALOR through our zap function. Roughly 13% of all VALOR mints will go towards development to ensure rapid innovation.
+The VALOR token doesn’t have a max supply. For every 1 BNB earned in the performance fees, 10 VALOR is minted, so supply is not capped at the moment. We may establish new strategies to limit the cap or burn some tokens, however currently we are focused on the growth of the VALOR token. You can earn VALOR by using the farms, or you can buy VALOR through our Split function. Roughly 13% of all VALOR mints will go towards development to ensure rapid innovation.
 
 - Honest $cake Farmers: Deposit CAKE-BNB LP and reap the benefits of the compounding effect. With Simple Interest, the APY is 150% for CAKE-BNB, however, if this gets compounded it becomes 347% APY. The assumptions are the following: 1) initial capital is $1m, 2) transaction cost: $1, 3)Compounded Once Daily. The transaction cost assumes it takes 4-5 steps for Pancake VALOR to compound deposits. Around 25% of VALOR’s profits will be bonuses. Some percent of the farming profits will be saved as BNB in the VALOR Reward Pool.
 
