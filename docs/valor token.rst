@@ -2,11 +2,11 @@
 VALOR token
 ************************
 
-The VALOR token doesn’t have a max supply. For every 1 BNB earned in the performance fees, 10 VALOR is minted, so supply is not capped at the moment. We may establish new strategies to limit the cap or burn some tokens, however currently we are focused on the growth of the VALOR token. You can earn VALOR by using the farms, or you can buy VALOR through our Split function. Roughly 13% of all VALOR mints will go towards development to ensure rapid innovation.
+The VALOR token doesn’t have a max supply. For every 1 BNB earned in the performance fees, 3 VALOR is minted, so supply is not capped at the moment. We may establish new strategies to limit the cap or burn some tokens, however currently we are focused on the growth of the VALOR token. You can earn VALOR by using the farms, or you can buy VALOR through our Split function. Roughly 13% of all VALOR mints will go towards development to ensure rapid innovation.
 
 - Honest $cake Farmers: Deposit CAKE-BNB LP and reap the benefits of the compounding effect. With Simple Interest, the APY is 150% for CAKE-BNB, however, if this gets compounded it becomes 347% APY. The assumptions are the following: 1) initial capital is $1m, 2) transaction cost: $1, 3)Compounded Once Daily. The transaction cost assumes it takes 4-5 steps for Pancake VALOR to compound deposits. Around 25% of VALOR’s profits will be bonuses. Some percent of the farming profits will be saved as BNB in the VALOR Reward Pool.
 
-- Degens: Buy VALOR at the start of launch. Sell when the price becomes high enough to fulfill your greedy desire. The Probability of VALOR dropping below the initial price of $30 is very low. 1) Presale Participants bought VALOR at $3 and will not sell below that price at a loss. 2) As VALOR Price goes up, VALOR issued volume will decrease.
+- Degens: Buy VALOR at the start of launch. Sell when the price becomes high enough to fulfill your greedy desire. The Probability of VALOR dropping below the initial price of $30 is very low. 1) Presale Participants bought VALOR at $30 and will not sell below that price at a loss. 2) As VALOR Price goes up, VALOR issued volume will decrease.
 
 - Smart Investors: Stake VALOR long-term. The APY of VALOR Pool is amazing and real! The meaning of VALOR Pool’s APY 100% is if you buy $10 worth of VALOR now and stake it for 1 year, you will receive $10 worth of BNB. If you sell the remaining VALOR on the market, you can also capitalize on profits there. If you are a wise investor, you would meticulously analyze the APY of the staking pool and earn profits not only from the BNB rewards, but also from selling the VALOR as well.
 
@@ -16,7 +16,7 @@ The VALOR token doesn’t have a max supply. For every 1 BNB earned in the perfo
 
     2) 3% withdrawal fee if withdrawal happens within 72 hours of deposit
 
-    For further clarification the 30% performance fee is collected and given to the VALOR stakers. For every 1 BNB earned through performance fees, 10 VALOR is minted and given to respective users. So long as the price of  VALOR stays above 1BNB/10, users are actually earning money through this performance fee system. All of these fees will ultimately go towards staking VALOR, thereby ensuring the sustainability and longevity of our project and benefitting VALOR supporters/holders.
+    For further clarification the 30% performance fee is collected and given to the VALOR stakers. For every 1 BNB earned through performance fees, 3 VALOR is minted and given to respective users. So long as the price of  VALOR stays above 1BNB/3, users are actually earning money through this performance fee system. All of these fees will ultimately go towards staking VALOR, thereby ensuring the sustainability and longevity of our project and benefitting VALOR supporters/holders.
 
 
 - Click on the following spreadsheet link to understand the detailed tokenomics breakdown.
