@@ -14,7 +14,7 @@ The VALOR token doesn’t have a max supply. For every 1 BNB earned in the perfo
 
     1) 30% Performance fee
 
-    2) 1.5% withdrawal fee if withdrawal happens within 72 hours of deposit
+    2) 3% withdrawal fee if withdrawal happens within 72 hours of deposit
 
     For further clarification the 30% performance fee is collected and given to the VALOR stakers. For every 1 BNB earned through performance fees, 10 VALOR is minted and given to respective users. So long as the price of  VALOR stays above 1BNB/10, users are actually earning money through this performance fee system. All of these fees will ultimately go towards staking VALOR, thereby ensuring the sustainability and longevity of our project and benefitting VALOR supporters/holders.
 
