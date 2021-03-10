@@ -15,12 +15,12 @@ In this farm, users can deposit VALOR/BNB and earn even more VALOR tokens. There
 CAKE Auto Compounding Farm
 ================================================
 
-The CAKE farm is where you can reap the benefits of automating compounding and the high APY. There should be a withdrawal fee of 0.5% if withdrawn within 72 hours, but there will be no fee during the migration to v2. The 30% performance fee is collected but for every 1BNB in fees collected, we give 25 VALOR, so you’re getting free money.
+The CAKE farm is where you can reap the benefits of automating compounding and the high APY. There should be a withdrawal fee of 0.5% if withdrawn within 72 hours, but there will be no fee during the migration to v2. The 30% performance fee is collected but for every 1BNB in fees collected, we give 2.5 VALOR, so you’re getting free money.
 
 Rest of PancakeSwap Farms
 ================================================
 
-Currently we have CAKE-BNB, BUSD-BNB, USDT-BNB, DAI-BNB, USDC-BNB, VAI-BUSD, USDT-BUSD pools, which exist on Pancakeswap. Our smart contracts automatically compound your investments, giving you a higher APY. For these pools, as profit you will be getting the respective LP Token of the pool, as well as VALOR tokens. 40% of profits will be collected and given as VALOR tokens. For every 1BNB collected, we give 25 VALOR. There should be a withdrawal fee of 0.5% if withdrawn within 72 hours, but there will be no fee during the migration to v2. Currently you can only claim your profits, if you claim & exit the pool. We may change this in the future.
+Currently we have CAKE-BNB, BUSD-BNB, USDT-BNB, DAI-BNB, USDC-BNB, VAI-BUSD, USDT-BUSD pools, which exist on Pancakeswap. Our smart contracts automatically compound your investments, giving you a higher APY. For these pools, as profit you will be getting the respective LP Token of the pool, as well as VALOR tokens. 40% of profits will be collected and given as VALOR tokens. For every 1BNB collected, we give 2.5 VALOR. There should be a withdrawal fee of 0.5% if withdrawn within 72 hours, but there will be no fee during the migration to v2. Currently you can only claim your profits, if you claim & exit the pool. We may change this in the future.
 
 Maximizer PancakeSwap Farms
 ================================================
